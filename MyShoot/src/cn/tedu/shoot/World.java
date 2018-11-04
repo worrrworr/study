@@ -1,5 +1,5 @@
 package cn.tedu.shoot;
-/** 整个游戏世界 */
+/** 整个游戏世界 */ /** 修改一*/
 public class World {
 	Sky sky;
 	Hero hero;
